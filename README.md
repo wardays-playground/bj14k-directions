@@ -4,7 +4,7 @@
 
 Given a constant similar to the following : 
 
-```javascript
+```js
 const params = [{
   name: 'Address1',
   country: 'Spain',
